@@ -1,9 +1,9 @@
-# Quote-Generator [See Live](https://juanitafadul.github.io/quote-generator/)
+# Quote-Generator ## [See Live](https://juanitafadul.github.io/quote-generator/)
 
 Generate a new quote with a click of a button and also share the quote on your Twitter profile.
 
 
-# Languages
+## Languages
  + HTML5
  + CSS3
  + Vanilla JS
